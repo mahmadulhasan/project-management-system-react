@@ -18,11 +18,11 @@ A lightweight, frontend-only project management system built with React. Designe
 - **Styling**: TailwindCSS / CSS Modules 
 - **State Management**: useState, useEffect, Context API 
 - **Data Storage**: Local Storage
-  
-![Screenshot (78)](https://github.com/user-attachments/assets/d8f3de34-89e5-4fbf-98c3-f44276099297)
-![Screenshot (79)](https://github.com/user-attachments/assets/70a1f4d7-986f-401d-94da-ae07132a49ab)
 
 ![Screenshot (73)](https://github.com/user-attachments/assets/41d00d79-a89f-49b3-884a-7f4161b809aa)
+
+![Screenshot (78)](https://github.com/user-attachments/assets/d8f3de34-89e5-4fbf-98c3-f44276099297)
+
 ![Screenshot (65)](https://github.com/user-attachments/assets/ce3efbda-5cd2-40b6-9551-10998893782a)
 
 ## 📦 Installation
