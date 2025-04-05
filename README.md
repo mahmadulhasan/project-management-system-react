@@ -14,9 +14,9 @@ A lightweight, frontend-only project management system built with React. Designe
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React.js, React Router
-- **Styling**: TailwindCSS / CSS Modules (choose one)
-- **State Management**: useState, useEffect, Context API (if used)
+- **Frontend**: React.js, vite
+- **Styling**: TailwindCSS / CSS Modules 
+- **State Management**: useState, useEffect, Context API 
 - **Data Storage**: Local Storage
 
 ## 📦 Installation
