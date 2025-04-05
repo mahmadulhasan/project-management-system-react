@@ -23,7 +23,8 @@ A lightweight, frontend-only project management system built with React. Designe
 
 ![Screenshot (78)](https://github.com/user-attachments/assets/d8f3de34-89e5-4fbf-98c3-f44276099297)
 
-![Screenshot (65)](https://github.com/user-attachments/assets/ce3efbda-5cd2-40b6-9551-10998893782a)
+![Screenshot (65)](https://github.com/user-attachments/assets/103d8802-133e-4567-90b8-ba82ff1b28e9)
+
 
 ## 📦 Installation
 
